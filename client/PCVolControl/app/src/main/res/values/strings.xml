@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PCVolControl</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_connect_text">Connect</string>
+    <string name="btn_disconnect_text">Disconnect</string>
+    <string name="btn_next_text">Next Track</string>
+    <string name="btn_prev_text">Previous Track</string>
+    <string name="btn_play_text">Play/Pause</string>
+    <string name="btn_stop_text">Stop</string>
+</resources>
